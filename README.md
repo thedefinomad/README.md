@@ -2,6 +2,7 @@
 
 - [Substack for in-depth tech reviews and roastings of the web3 industry](https://thedefinomad.substack.com/)
 - [Twitter for daily insights into the DeFi space](https://twitter.com/thedefinomad)
+- Reach out to me for Consulting/Dev Work on Telegram - @thedefinomad
 
 ## 🖥️ About Me
 With years of experience in decentralized finance (DeFi), blockchain protocols, smart contracts, and consensus algorithms, I specialize in designing and deploying secure, efficient, and innovative solutions in the DeFi ecosystem.
